@@ -1,0 +1,217 @@
+.admin {
+
+        .adminWrapper{
+                 border: 1px solid #ccc;
+                border-radius: 20px;
+                margin: 160px 0 93px;
+                padding: 32px;
+
+            @media screen and (max-width: $screen-xs-max) {
+                border: 0;
+
+
+            }
+        }
+        h1 {
+                text-align: center;
+                font-size: 40px;
+                color: black;
+                margin-bottom: 50px;
+        }
+        .btn-danger {
+                height: auto;
+                width: 30%;
+                margin-bottom: 20px;
+                background-color: darkgreen;
+                border: none;
+
+
+            @media screen and (max-width: $screen-xs-max) {
+
+                width: 88%;
+            }
+
+            p {
+                        color: white;
+                        font-size: 24px;
+
+                @media screen and (max-width: $screen-xs-max) {
+                    font-size: 18px;
+                }
+                }
+        }
+}
+
+#updateHealer{
+    margin: 135px 0 40px;
+
+    h1{
+        color: black;
+    }
+}
+
+
+#updateHealer2{
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    margin: 40% 0 25%;
+    padding: 30px;
+
+    h1{
+        color: black;
+        margin-bottom: 30px;
+        margin-left: -25px;
+    }
+}
+
+.clientBack{
+    margin-bottom: 30px;
+}
+
+.healerProfile_wrap{
+    text-align: center;
+    margin: 23%;
+    margin-bottom: -8%;
+
+    h2{
+        margin-bottom: 30px;
+    }
+
+    img{
+        margin: auto;
+        margin-bottom: 40px;
+        width: 50%;
+        height: 50%;
+    }
+
+    .contactNumber{
+        p{
+            font-size: 10px;
+            margin-top: 10px !important;
+        }
+    }
+}
+
+
+#addHealer{
+
+        margin-top: 140px;
+        border: 1px solid #ccc;
+        padding: 16px;
+        border-radius: 10px;
+        margin-bottom: 40px;
+}
+
+.deleteHealer {
+        h1 {
+                text-align: center;
+                color: antiquewhite;
+                font-size: 40px;
+        }
+
+                .listHealer {
+                text-align: center;
+                                color: green;
+                        font-size: 22px;
+
+                        table{
+                                color: green;
+
+                        }
+                label {
+                        span {
+                                font-size: 24px;
+                                color: forestgreen;
+                        }
+                }
+        }
+}
+
+#viewHealerList{
+        margin-top: 159px;
+        border: 1px solid #ccc;
+        padding: 16px;
+        border-radius: 10px;
+        margin-bottom: 30%;
+
+        h1{
+                color: black;
+                margin-top: 35px;
+        }
+}
+
+
+
+.healer {
+        h1 {
+                text-align: center;
+                font-size: 40px;
+                color: darkgreen;
+                margin-bottom: 50px;
+                margin-top: 80px;
+
+            @media screen and (max-width: $screen-xs-max) {
+                font-size: 33px;
+            }
+        }
+        .btn-danger1 {
+                height: 50px;
+                width: 40%;
+                margin-bottom: 20px;
+                background-color: darkgreen;
+                border: none;
+                margin-left: 275px;
+                @media screen and (max-width: $screen-xs-max) {
+                        margin-left: 56px;
+                     width: 70%;
+                }
+
+
+                @media screen and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+                    height: 50px;
+                    width: 60%;
+                    margin-bottom: 20px;
+                    background-color: darkgreen;
+                    border: none;
+                    margin-left: 100px;
+                }
+
+                p {
+                        color: white;
+                        font-size: 24px;
+                }
+        }
+        .btn-danger2 {
+                height: 50px;
+                width: 40%;
+                margin-bottom: 20px;
+                background-color: darkgreen;
+                border: none;
+                margin-right: 275px;
+
+            @media screen and (max-width: $screen-xs-max) {
+                width: 70%;
+            }
+
+            @media screen and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+                    height: 50px;
+                    width: 60%;
+                    margin-bottom: 20px;
+                    background-color: darkgreen;
+                    border: none;
+                    margin-right: 100px;
+                }
+
+            &:nth-child(3){
+                margin-bottom: 30px;
+            }
+
+                @media screen and (max-width: $screen-xs-max) {
+                        margin-left: 56px;
+                }
+                p {
+                        color: white;
+                        font-size: 24px;
+                }
+        }
+}

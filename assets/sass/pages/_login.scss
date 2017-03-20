@@ -1,0 +1,43 @@
+#loginForm{
+        margin-top: 150px;
+        border: 1px solid #ccc;
+        padding: 37px;
+        border-radius: 10px;
+        margin-bottom: 50px;
+
+        @media screen and (max-width: $screen-xs-max) {
+            margin-top: 98px;
+
+        }
+
+
+
+        h1{
+                color:#5f992c;
+
+        }
+
+        .btn-danger{
+                background-color: forestgreen;
+                border: none;
+                height: 45px;
+                width: 90px;
+                margin-bottom: 20px;
+                margin-top: 10px;
+
+                a{
+                        color: white;
+                }
+        }
+
+        p{
+                margin-top: 20px;
+                font-size: 18px;
+
+                a{
+                        color: black;
+                }
+        }
+}
+
+

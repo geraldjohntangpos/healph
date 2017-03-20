@@ -1,0 +1,120 @@
+.badge-notify {
+   background: red;
+    position: absolute;
+    top: 11px;
+    left: 4px;
+    height: 27%;
+    width: 6%;
+
+    @media screen and (max-width: $screen-xs-max) {
+       top: -5%;
+        left: 1%;
+        height: 15%;
+        width: 7%;
+    }
+}
+
+
+.badge-notify3 {
+   background: red;
+    position: absolute;
+    top: -3% !important;
+    left: 4px;
+    height: 10%;
+    width: 10%;
+
+    @media screen and (max-width: $screen-xs-max) {
+       top: 0;
+        left:0;
+        height: 10%;
+        width: 10%;
+    }
+}
+
+.badge-notify4{
+        background: red;
+    position: absolute;
+    top: 25px;
+    left: -3px;
+    height: 25%;
+    width: 5%;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: $screen-xs-max) {
+
+    .adddress{
+
+            input{
+                width: 91%;
+            }
+
+        }
+
+        .lat{
+            margin-left: 17px;
+        }
+
+        .long{
+            margin-left: 2%;
+        }
+}
+
+.badge-notify1 {
+    background: red;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+
+
+.wrapActions{
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: 100px 0 99px;
+}
+
+
+.postProduct{
+    margin: 50px 0 50px;
+     border: 1px solid #ccc;
+    border-radius: 20px;
+
+}
+
+ .postProductForm{
+
+        margin-top: 150px;
+        border: 1px solid #ccc;
+        padding: 16px;
+        border-radius: 10px;
+     margin-bottom: 100px;
+}
+
+.healer{
+    margin: 120px 0 0px;
+}
+
+.btnPS{
+    margin-bottom: 55px !important;
+}
+
+
+.view{
+
+
+
+}
+
+
+
+
+
+

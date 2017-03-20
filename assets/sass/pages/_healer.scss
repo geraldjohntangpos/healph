@@ -1,0 +1,200 @@
+.healerPage{
+
+    .healerProf{
+        margin-top: 80px;
+    }
+
+    .details{
+        margin-top: 100px;
+    }
+
+    .like{
+        margin-top: -40px;
+    }
+
+
+    .des-wrap{
+        text-align: center;
+
+        h2{
+            margin-top: 40%;
+            margin-bottom: -26%;
+
+            @media screen and (max-width: $screen-xs-max) {
+                margin-bottom: -3%;
+            }
+
+
+        }
+        @media screen and (max-width: $screen-xs-max) {
+
+        width: 100%;
+
+        }
+    }
+
+    img{
+        margin: 28% 0 20px;
+    }
+
+    p{
+        font-size: 16px;
+        color: green;
+        font-weight: bold;
+
+        &:last-child{
+            margin-top: 33%;
+            font-size: 24px;
+            font-weight: normal;
+
+            @media screen and (max-width: $screen-xs-max) {
+
+                margin: 10% 0 10%;
+            }
+        }
+    }
+
+    .serviceOffered{
+        margin-bottom: 70px;
+    }
+
+
+    table{
+        h1{
+            color: #319b37;
+        }
+
+        tr{
+            td{
+                a{
+                    color: black;
+                }
+            }
+        }
+    }
+
+    #healerInfo{
+        ul{
+            list-style: none;
+
+            li{
+                color: antiquewhite;
+            }
+        }
+    }
+
+    .btn-danger{
+        background-color: darkgreen;
+        border: none;
+
+
+
+        a{
+            color: white;
+
+        }
+
+    }
+
+
+
+}
+
+#tableList {
+    margin-top: 100px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+    h1{
+        color: black;
+    }
+}
+
+.comments{
+    margin-bottom: 40px;
+    margin-left: -53px;
+
+
+    iframe{
+        display: block;
+        height: 500px !important;        /* Viewport-relative units */
+        width: 100% !important;
+        border: 0 !important;
+    }
+
+    td{
+        color: #fff !important;
+
+    }
+
+    h1{
+        text-align: center;
+        color: green;
+        margin-top: 68px;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+
+        li{
+            color: black;
+        }
+
+    }
+
+    .btn-danger{
+         @media screen and (max-width: $screen-xs-max) {
+            margin-bottom: 20px;
+        }
+    }
+
+}
+
+.like{
+    color: green;
+}
+
+.appointment{
+   color: green;
+   text-decoration: underline;
+
+
+}
+
+.bell{
+  margin: 37px 80px 0;
+  font-size: 25px;
+
+}
+
+            .badge-notify{
+             background:red;
+             position:absolute;
+             top:0px;
+            }
+
+
+#allHealers{
+    margin-top: 150px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 133px;
+
+    h1{
+        color: black;
+    }
+}
+
+.offered{
+    span{
+        padding-left: 280px;
+
+        a{
+            color: green;
+        }
+    }
+}

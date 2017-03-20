@@ -1,0 +1,81 @@
+
+.addHealer{
+         h1{
+                color:antiquewhite;
+                margin-top: -81px;
+        }
+
+        .btn-danger{
+                float: right;
+        }
+
+        .back2{
+                img{
+                        float: left;
+                        margin-top: 10px;
+                }
+        }
+
+}
+
+.eula{
+    font-size: 12px;
+}
+
+.wrapImg{
+    margin-top: 20%;
+
+    @media screen and (max-width: $screen-xs-max) {
+        margin-bottom: 100%;
+    }
+
+    h3{
+        font-style: italic;
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+
+    .img1{
+        margin-top: 60px;
+        width: 60%;
+    }
+
+    .img2{
+        width: 40%;
+    }
+}
+
+
+
+#registerForm{
+    margin: 30px 0 30px;
+
+    h1{
+        color: #5f992c;
+        font-size: 35px;
+        margin: 10px 0 20px;
+    }
+    .form{
+        margin-top: 10px;
+    }
+
+    .wrapForm{
+        border: 1px solid #ccc;
+        padding: 30px;
+        border-radius: 10px;
+    }
+
+    .btn-danger{
+        margin: 30px 0 20px;
+    }
+
+    p{
+        a{
+            color: black;
+        }
+    }
+
+
+}

@@ -1,0 +1,121 @@
+		table#main {
+			border: 1px solid;
+			width: 100%;
+		}
+
+		td#dispMonth {
+			width: 100%;
+			font-size: 24px;
+
+		}
+
+		td#dispMonth a {
+			text-decoration: none;
+			color: green;
+		}
+
+		td#nextMonth:hover {
+			text-decoration: underline;
+			color: green;
+			font-weight: bold;
+			cursor: pointer;
+		}
+
+		td#prevMonth:hover {
+			text-decoration: underline;
+			color: green;
+			font-weight: bold;
+			cursor: pointer;
+		}
+
+		#currMonth {
+			width: 80%;
+			text-align: center;
+			font-weight: bold;
+		}
+
+		#prevMonth, #nextMonth {
+			width: 10%;
+			text-align: center;
+			color: green;
+		}
+
+		#main td {
+			border: 1px solid;
+		}
+
+		#sub td {
+			border: 0px;
+		}
+
+		.days {
+			text-align: center;
+			font-weight: bold;
+			padding-top: 9px;
+			padding-bottom: 9px;
+		}
+
+		.dates {
+			height: 60px;
+			text-align: top;
+		}
+
+		.thisday {
+			background-color: lightgreen;
+		}
+
+		.yesterday {
+			background-color: pink;
+		}
+
+		.empty {
+			background-color: #ddd;
+		}
+
+		.hidden {
+			display: none;
+		}
+
+		.datevalid {
+			font-weight: bold;
+		}
+
+		.datevalid:hover {
+			background-color: #aaa;
+			cursor: pointer;
+		}
+
+		#loginForm p {
+			margin-top: -10px;
+		}
+
+		.available {
+			color: green;
+		}
+
+		.schedules {
+			cursor: pointer;
+			border: 1px solid green;
+			background-color: #319b37;
+			color: #000;
+			font-size: 18px;
+/*			padding: 3px;
+*/			line-height: 30px;
+		}
+
+		.schedules:hover {
+			text-decoration: underline;
+		}
+
+		.hov {
+			text-decoration: underline;
+		}
+
+		.occupied {
+			cursor: pointer;
+			border: 1px solid green;
+			background-color: pink;
+			color: #000;
+			font-size: 18px;
+			line-height: 30px;
+		}

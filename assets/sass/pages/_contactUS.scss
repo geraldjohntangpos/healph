@@ -1,0 +1,53 @@
+.contactUs{
+
+        background-color: #68BD12;
+
+    h1{
+                font-size: 40px;
+                color: white;
+                text-align: center;
+                margin-top: 60px;
+        }
+
+        p{
+             font-size: 20px;
+             color:  white;
+             text-align: center;
+                margin-bottom: 9px;
+        }
+
+        .btn-danger{
+                height: 50px;
+                width: 100px;
+                border: 0;
+                background-color: #1db725;
+                margin-bottom: 40px;
+
+                @media screen and (max-width: $screen-xs-max) {
+
+                        margin-bottom: 20px;
+                }
+        }
+
+    ul{
+                text-align: center;
+                list-style: none;
+                li{
+                        padding: 16px;
+                        display: inline-block;
+
+                        @media screen and (max-width: $screen-xs-max) {
+                                margin-right: 0;
+                                margin-left: -26px;
+                        }
+
+                }
+        }
+
+    .form-group{
+
+        &:first-child{
+            margin-top: 5px;
+        }
+    }
+}

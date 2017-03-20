@@ -1,0 +1,135 @@
+.trendWrap{
+         background: url("../images/bg.png") no-repeat center center;
+         background-size: cover;
+         height: 310px;
+}
+
+.navbar-inverse1{
+        background-color: #319b37;
+        border: none;
+        li{
+                a{
+                        color: #fff;
+                        margin: 0px 0 4px;
+                        font-size: 20px;
+                        float: right;
+
+                    @media screen and (max-width: $screen-xs-max) {
+                            margin: -2px 0 0;
+                        float: right;
+                    }
+
+                }
+        }
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+        text-decoration: none;
+        background-color: black;
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+        background-color: transparent;
+        color: black;
+        padding: 11px;
+        font-size: 23px;
+        border: none;
+        cursor: pointer;
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+        position: absolute;
+        display: inline-block;
+        left: 19%;
+        top: 16px;
+        margin-top: 12px;
+        z-index: 999999;
+
+    @media screen and (max-width: $screen-xs-max) {
+            left: 132px;
+            top: -10px;
+    }
+}
+
+.dropbtn:hover, .dropbtn:focus {
+        background-color: none;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: transparent;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+        color: white;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    z-index: 9999;
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #319b37}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+
+
+.trending1{
+        background: url("../images/bg2.jpg") no-repeat center center;
+        background-size: cover;
+        padding: 80px 0 100px;
+        text-align: center;
+        margin-top: -100px;
+
+        h1{
+                font-size: 50px;
+                color: black;
+                margin: 192px 0 32px;
+
+            span{
+                color: #fff;
+            }
+        }
+
+.trending{
+     ul{
+                list-style: none;
+                margin-bottom: 50px;
+
+                        li{
+                                text-align: center;
+                                color: white;
+                                font-size: 21px;
+
+                                a{
+                                        color: white;
+                                }
+                        }
+        }
+
+        h2{
+
+                text-align: center;
+                color: #FFF;
+                font-weight: bold;
+                padding: 32px;
+
+
+
+        }
+}
+
+}
+

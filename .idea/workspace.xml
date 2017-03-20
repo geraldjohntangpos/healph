@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40c8c8e1-8206-461b-8859-51f152c448a3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_post.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_tradHealer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/1b87a58a4f9d9761aab4cf5cbd207c0bf42ce3af/_bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_about.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_admin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_contactUS.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_healer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_home.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_login.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_method.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_post.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_promotion.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_registration.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_tradHealer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_trending.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/253f7b4ac40b6f72d5dc732f1432fa36482a9d41/_viewproduct.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_reset-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/2a06c9186df86fda4add2bb7fc28fd188e2fb183/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/445f8762d9eb5d5e48db7618b45852c2f9dfea21/_common.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/445f8762d9eb5d5e48db7618b45852c2f9dfea21/_hover.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/445f8762d9eb5d5e48db7618b45852c2f9dfea21/main.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_post.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_tradHealer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/af0bae8bbfec8b0025cff0111b9a77cda54f361c/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_post.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_tradHealer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/client/face.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/healer/healer_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/healer/healer_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/healer/healer_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/healer/healer_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Duga sa Scorpion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Duga sa Scorpions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Haplas ni bai..jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Hello to you.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Shark oil.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/14/product_14Singot sa til as.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/4/product_4Natural  Ointment .jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/4/product_4Spirulina Capsule.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/7/product_7Herbal Haplas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/7/product_7Moringa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/13/13_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/products/nothing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/14/service_14Erotic Massage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/14/service_14Hilot sa Kaga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/14/service_14Nindot nga Hilot sa Kaga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/4/service_4Acupressure Therapy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/4/service_4Back Gua Sha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/4/service_4Facial Gua Sha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/4/service_4Tui Na.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/4/service_4moxibustion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service/7/service_7Hiwaga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adminPages/viewinquiries.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appointmentform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/jquery.e-calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/clndr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/pages/_post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/pages/_tradHealer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/clndr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.e-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.progresstracker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.progresstracker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.section-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/clndr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editprofile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/healerPages/editprofile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/editprofile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/profiletraps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newappointment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/otherIndex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/otherTrending.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/addappointment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/booknow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/cancelappointment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/cancelbook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/cancelreservation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/confirmloginMobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/deletecomment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/disptophealersMobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/editprofile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/healercalendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/healerproduct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/healerservice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/like.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/manageinquiries.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/registrationMobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/reserve.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/sendinquiry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/styles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queries/updateprofile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reservationform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trendingHealers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trendingMethods.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trendingProducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_about.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_about.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_admin.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_admin.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_contactUS.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_contactUS.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_healer.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_healer.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_home.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_home.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_login.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_login.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_promotion.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_promotion.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_registration.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_registration.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_trending.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_trending.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_viewproduct.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/09fed9ebbb106dd2898c1779a0e3737d65852d22/_viewproduct.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_about.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_about.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_admin.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_admin.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_contactUS.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_contactUS.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_healer.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_healer.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_home.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_home.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_login.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_login.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_promotion.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_promotion.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_registration.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_registration.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_trending.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_trending.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_viewproduct.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/7b44191515ca170679cd6d95a0235cd35514913b/_viewproduct.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/a97db23416473a26e4bf1f52170ff71860816d9c/_common.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/a97db23416473a26e4bf1f52170ff71860816d9c/_common.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/a97db23416473a26e4bf1f52170ff71860816d9c/main.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/a97db23416473a26e4bf1f52170ff71860816d9c/main.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_about.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_about.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_admin.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_admin.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_contactUS.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_contactUS.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_healer.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_healer.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_home.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_home.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_login.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_login.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_promotion.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_promotion.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_registration.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_registration.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_trending.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_trending.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_viewproduct.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/c00fb873ed0d4d0382c9d7f906510ea087d7b266/_viewproduct.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/d969e110dd7812d8f3577e5d739d6ca60a15cafa/_common.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/d969e110dd7812d8f3577e5d739d6ca60a15cafa/_common.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/d969e110dd7812d8f3577e5d739d6ca60a15cafa/main.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/d969e110dd7812d8f3577e5d739d6ca60a15cafa/main.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/ddc303068c5a234a8a580225b369e4b793251c8f/_common.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/ddc303068c5a234a8a580225b369e4b793251c8f/_common.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/.sass-cache/ddc303068c5a234a8a580225b369e4b793251c8f/main.scssc" afterPath="$PROJECT_DIR$/assets/.sass-cache/ddc303068c5a234a8a580225b369e4b793251c8f/main.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminPages/addHealer.php" afterPath="$PROJECT_DIR$/adminPages/addHealer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminPages/adminLogin.php" afterPath="$PROJECT_DIR$/adminPages/adminLogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminPages/healerprofile.php" afterPath="$PROJECT_DIR$/adminPages/healerprofile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminPages/updateAccount.php" afterPath="$PROJECT_DIR$/adminPages/updateAccount.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminPages/viewhealer.php" afterPath="$PROJECT_DIR$/adminPages/viewhealer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allHealers.php" afterPath="$PROJECT_DIR$/allHealers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allMethods.php" afterPath="$PROJECT_DIR$/allMethods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allProducts.php" afterPath="$PROJECT_DIR$/allProducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css.map" afterPath="$PROJECT_DIR$/assets/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/_common.scss" afterPath="$PROJECT_DIR$/assets/sass/_common.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_about.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_about.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_admin.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_admin.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_contactUS.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_contactUS.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_healer.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_healer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_home.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_login.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_login.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_promotion.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_promotion.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_registration.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_registration.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_trending.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_trending.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/pages/_viewproduct.scss" afterPath="$PROJECT_DIR$/assets/sass/pages/_viewproduct.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healer.php" afterPath="$PROJECT_DIR$/healer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/editproduct.php" afterPath="$PROJECT_DIR$/healerPages/editproduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/editservice.php" afterPath="$PROJECT_DIR$/healerPages/editservice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/loginHealer.php" afterPath="$PROJECT_DIR$/healerPages/loginHealer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/postProducts.php" afterPath="$PROJECT_DIR$/healerPages/postProducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/postServices.php" afterPath="$PROJECT_DIR$/healerPages/postServices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/profile.php" afterPath="$PROJECT_DIR$/healerPages/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/viewProducts.php" afterPath="$PROJECT_DIR$/healerPages/viewProducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/viewServices.php" afterPath="$PROJECT_DIR$/healerPages/viewServices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healerPages/viewer.php" afterPath="$PROJECT_DIR$/healerPages/viewer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/healph.sql" afterPath="$PROJECT_DIR$/healph.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery/posttraps.js" afterPath="$PROJECT_DIR$/jquery/posttraps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery/trapinput.js" afterPath="$PROJECT_DIR$/jquery/trapinput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/method.php" afterPath="$PROJECT_DIR$/method.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.php" afterPath="$PROJECT_DIR$/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promotion.php" afterPath="$PROJECT_DIR$/promotion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/confirmlogin.php" afterPath="$PROJECT_DIR$/queries/confirmlogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/disptophealers.php" afterPath="$PROJECT_DIR$/queries/disptophealers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/disptopmethods.php" afterPath="$PROJECT_DIR$/queries/disptopmethods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/disptopproducts.php" afterPath="$PROJECT_DIR$/queries/disptopproducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getallhealers.php" afterPath="$PROJECT_DIR$/queries/getallhealers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getallmethods.php" afterPath="$PROJECT_DIR$/queries/getallmethods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getallproducts.php" afterPath="$PROJECT_DIR$/queries/getallproducts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/gethealercomments.php" afterPath="$PROJECT_DIR$/queries/gethealercomments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getmethodcomments.php" afterPath="$PROJECT_DIR$/queries/getmethodcomments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getproduct.php" afterPath="$PROJECT_DIR$/queries/getproduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getproductcomments.php" afterPath="$PROJECT_DIR$/queries/getproductcomments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/getservices.php" afterPath="$PROJECT_DIR$/queries/getservices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/managehealer.php" afterPath="$PROJECT_DIR$/queries/managehealer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/postproduct.php" afterPath="$PROJECT_DIR$/queries/postproduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/postservice.php" afterPath="$PROJECT_DIR$/queries/postservice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/registration.php" afterPath="$PROJECT_DIR$/queries/registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queries/updateproduct.php" afterPath="$PROJECT_DIR$/queries/updateproduct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
+    </list>
+    <ignored path="healPH.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="healPH" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="appointmentform.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appointmentform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="115" column="161" selection-start-line="115" selection-start-column="161" selection-end-line="115" selection-end-column="161" />
+              <folding>
+                <marker date="1473093136697" expanded="true" signature="557:606" ph="SELECT * FRO... healer" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appointmentformtraps.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jquery/appointmentformtraps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posttraps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery/posttraps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/appointmentform.php" />
+        <option value="$PROJECT_DIR$/jquery/appointmentformtraps.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healPH" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healPH" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healPH" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healPH" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="healPH" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.28485578" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c8c8e1-8206-461b-8859-51f152c448a3" name="Default" comment="" />
+      <created>1473035799729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473035799729</updated>
+      <workItem from="1473035801253" duration="813000" />
+      <workItem from="1473055345971" duration="1099000" />
+      <workItem from="1473086999183" duration="995000" />
+      <workItem from="1473088066444" duration="6207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9114000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22474378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appointmentform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473093136697" expanded="true" signature="557:606" ph="SELECT * FRO... healer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appointmentform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473093136697" expanded="true" signature="557:606" ph="SELECT * FRO... healer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appointmentform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473093136697" expanded="true" signature="557:606" ph="SELECT * FRO... healer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appointmentform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="115" column="161" selection-start-line="115" selection-start-column="161" selection-end-line="115" selection-end-column="161" />
+          <folding>
+            <marker date="1473093136697" expanded="true" signature="557:606" ph="SELECT * FRO... healer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/trapinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1430">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/posttraps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/appointmentformtraps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
